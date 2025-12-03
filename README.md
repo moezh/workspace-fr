@@ -1,4 +1,4 @@
-# Workspace
+# Workspace | FR
 
 A web-based application built using the following technologies:
 
